@@ -1,6 +1,6 @@
 <picture>
-  <source media= srcset="https://github.com/CD-jliu/CD-jliu/blob/main/CD_avatar_red.png" width="100">
-  <img alt="Shows CannonDesign company logo in full name" src="https://github.com/CD-jliu/CD-jliu/blob/main/CD_avatar_red.png" width="100">
+  <source media= srcset="https://github.com/CD-jliu/CD-jliu/blob/main/Assets/CD_avatar_red.png?raw=true" width="100">
+  <img alt="Shows CannonDesign company logo in full name" src="https://github.com/CD-jliu/CD-jliu/blob/main/Assets/CD_avatar_red.png?raw=true" width="100">
 </picture>
 
 &nbsp;
