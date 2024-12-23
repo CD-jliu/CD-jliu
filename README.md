@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**CD-jliu/CD-jliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<picture>
+  <source media= srcset="https://github.com/CD-jliu/CD-jliu/blob/main/CD_avatar_red.png">
+  <img alt="Shows CannonDesign company logo in full name" src="https://github.com/CD-jliu/CD-jliu/blob/main/CD_avatar_red.png">
+</picture>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+CD-jliu/CD-jliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
